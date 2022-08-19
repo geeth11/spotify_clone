@@ -1,2 +1,2 @@
-# spotify_clone
-spotify clone using HTML , CSS , JavaScript .
+# Spotify_clone
+Created Spotify clone using HTML , CSS , JavaScript .
